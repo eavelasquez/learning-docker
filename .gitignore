@@ -1,0 +1,24 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+yarn.lock*
+package-lock.json
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Build related files
+dist/
+
+# Optional npm cache directory
+.npm
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
